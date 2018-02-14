@@ -1,2 +1,0 @@
-# DenisHedgehog.github.io
-Kappa
