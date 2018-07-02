@@ -1,0 +1,18 @@
+body {
+    height: 800px;
+    width: 800px;
+}
+
+.divus {
+    background-color: #ccc;
+    height: 60px;
+    /* width: 60px; */
+}
+
+.food {
+    background-color: red;
+}
+
+.snake {
+    background-color: darkolivegreen;
+}

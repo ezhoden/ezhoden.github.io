@@ -1,0 +1,40 @@
+.header {
+    font-family: 'Jura', sans-serif;
+    background-image: url('../images/bg.jpg');
+    background-size: 100%;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.header__title {
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+    margin: 16px 0 16px 0;
+}
+
+.header__description {
+    font-weight: 300;
+    font-size: 24px;
+    text-align: center;
+}
+
+.bordered_image {
+    background-image: url('../images/snake.png');
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 4px solid white;
+    margin: 48px 0 16px 0;
+}
+
+.project_description {
+    font-weight: 300;
+    font-size: 24px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 36px 0 16px 0;
+}
