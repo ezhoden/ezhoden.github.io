@@ -38,3 +38,11 @@
     justify-content: flex-start;
     margin: 36px 0 16px 0;
 }
+
+.link {
+    color: white;
+}
+
+.link:hover {
+    color: wheat;
+}
