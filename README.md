@@ -1,1 +1,1 @@
-Репозиторий для тестовых проектов и практики HTML, CSS и JS.
+There will be my personal blog website.
