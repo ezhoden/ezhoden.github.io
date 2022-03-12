@@ -1,0 +1,30 @@
+{
+  "name": "ezhoden.github.io",
+  "version": "1.0.0",
+  "description": "Personal blog",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "lint": "npx eslint --fix",
+    "prettify": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezhoden/ezhoden.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezhoden/ezhoden.github.io/issues"
+  },
+  "homepage": "https://github.com/ezhoden/ezhoden.github.io#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^8.11.0",
+    "parcel": "^2.3.2",
+    "prettier": "2.5.1",
+    "typescript": "^4.6.2"
+  }
+}
