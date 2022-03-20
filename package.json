@@ -12,6 +12,7 @@
   "author": "https://github.com/ezhoden",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.3.2"
+    "parcel": "^2.3.2",
+    "typescript": "^4.6.2"
   }
 }
