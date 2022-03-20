@@ -1,1 +1,1 @@
-There will be my personal blog website.
+There will be my personal blog.
