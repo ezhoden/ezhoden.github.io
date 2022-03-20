@@ -1,0 +1,19 @@
+{
+  "name": "ezhoden.github.io",
+  "version": "1.0.0",
+  "description": "There will be my personal blog.",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezhoden/ezhoden.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezhoden/ezhoden.github.io/issues"
+  },
+  "homepage": "https://github.com/ezhoden/ezhoden.github.io#readme"
+}
