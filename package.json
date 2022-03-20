@@ -23,6 +23,7 @@
   "author": "https://github.com/ezhoden",
   "license": "ISC",
   "devDependencies": {
+    "@jamesives/github-pages-deploy-action": "^4.2.5",
     "@types/jest": "^27.4.1",
     "@types/react": "^17.0.41",
     "@types/react-dom": "^17.0.14",
