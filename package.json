@@ -2,8 +2,11 @@
   "name": "ezhoden.github.io",
   "version": "1.0.0",
   "description": "There will be my personal blog.",
+  "source": "public/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "start": "parcel public/index.html"
+    "start": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
