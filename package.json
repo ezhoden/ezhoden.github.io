@@ -2,18 +2,16 @@
   "name": "ezhoden.github.io",
   "version": "1.0.0",
   "description": "There will be my personal blog.",
-  "main": "public/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel public/index.html"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ezhoden/ezhoden.github.io.git"
   },
-  "author": "",
+  "author": "https://github.com/ezhoden",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ezhoden/ezhoden.github.io/issues"
-  },
-  "homepage": "https://github.com/ezhoden/ezhoden.github.io#readme"
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
 }
